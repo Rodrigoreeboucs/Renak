@@ -1,11 +1,12 @@
 Renak
 
 💻 Projeto: 
+
 Renak é um mini portfólio de produtos desenvolvido com o React buscando dados de uma API.
 
 
 🔧 Technologies
--CSS
+
 -React.js
 
 Website: https://renakkk.vercel.app/
